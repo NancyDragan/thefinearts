@@ -1,0 +1,35 @@
+body{
+  background-color:
+    font-family:
+}
+
+ul{
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;   
+}
+
+li{
+  float: left;
+}
+
+li a{
+  display: block;
+  color: navy;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 20px 25px;
+  text-decoration: none;
+}
+
+li a:hover{
+  color: silver;
+}
+
+nav a{
+  background-color: white;
+  padding: 20px 25px;
+  margin: 0;
+  overflow: hidden;
+}
