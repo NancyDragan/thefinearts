@@ -17,7 +17,7 @@ li{
 
 li a{
   display: block;
-  color: navy;
+  color: Silver;
   text-align: center;
   text-transform: uppercase;
   padding: 20px 25px;
@@ -25,7 +25,7 @@ li a{
 }
 
 li a:hover{
-  color: silver;
+  color: lightblue;
 }
 
 nav a{
