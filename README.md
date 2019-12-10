@@ -1,6 +1,6 @@
 # thefinearts
 
-<h1>Editors</h1>
+<h3>Editors</h3>
 <!-- editors include Emma Kiser and Nancy Draganowski -->
 
 <!-- Nancy Draganowski -->
